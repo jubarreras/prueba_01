@@ -9,12 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This is a femtoRV implememtation using SPI flasg and spiRAM
 
 ## How to test
-
-Explain how to use your project
+You must program an external flash memory wioth desired application, all communication and debug messages are displayed in UART
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+one LED one USB-SERIAL dongle
